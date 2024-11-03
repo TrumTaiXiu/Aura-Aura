@@ -1,0 +1,7 @@
+colorama
+requests
+pystyle
+zlapi
+bs4
+pycryptodome
+munch
